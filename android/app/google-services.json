@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478217189929",
+    "project_id": "flutter-flash-call-message",
+    "storage_bucket": "flutter-flash-call-message.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478217189929:android:509d195ae72d1437e33a38",
+        "android_client_info": {
+          "package_name": "com.example.flash_call_message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478217189929-o0hg2e7pke2oa4sq8hd3nfv28hs1bcai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flash_call_message",
+            "certificate_hash": "64b0c8a60c34d610bbc04b446590ae1f0f2a968e"
+          }
+        },
+        {
+          "client_id": "478217189929-2644317oi059bbrvdl87b6virl6bofvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN0tjIaPtiU28KkbIjhYlO5BzdDUl6Vtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478217189929-2644317oi059bbrvdl87b6virl6bofvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
